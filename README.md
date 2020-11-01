@@ -8,6 +8,7 @@ The idea originates from my [Twitter series](https://twitter.com/oliverjumpertz/
 - [ArrayList](./data_structures/array_list/README.md)
 - [(Doubly) Linked List](./data_structures/linked_list/README.md)
 - [Queue](./data_structures/queue/README.md)
+- [Stack](./data_structures/stack/README.md)]
 
 ## Usage
 Within the folder `data_structures` you'll find sub folders containing individual data structures.
