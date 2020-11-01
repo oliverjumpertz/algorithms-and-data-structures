@@ -1,0 +1,17 @@
+{
+  "name": "algorithms-and-data-structures",
+  "version": "1.0.0",
+  "description": "algorithms and data structures, implemented and explained with JavaScript",
+  "main": "index.js",
+  "author": "Oliver Jumpertz",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/node": "^7.12.1",
+    "@babel/preset-env": "^7.12.1",
+    "jest": "^26.6.1"
+  }
+}
