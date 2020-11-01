@@ -18,3 +18,5 @@
 ![Effectively iterating over LinkedLists](./iterating.svg)
 
 ![Traits and use cases of LinkedList](./traits_and_use_cases.svg)
+
+![Full poster](./linkedlist.svg)

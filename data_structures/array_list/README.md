@@ -18,3 +18,5 @@
 ![Removing ArrayList elements](./removing.svg)
 
 ![Traits and use cases of ArrayLists](./traits_and_use_cases.svg)
+
+![Full poster](./arraylist.svg)

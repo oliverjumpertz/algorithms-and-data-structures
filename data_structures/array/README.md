@@ -14,3 +14,5 @@
 ![Deleting array elements](./deleting.svg)
 
 ![Traits and use cases of arrays](./traits_and_use_cases.svg)
+
+![Full poster](./array.svg)
