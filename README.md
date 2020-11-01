@@ -5,6 +5,7 @@ The idea originates from my [Twitter series](https://twitter.com/oliverjumpertz/
 
 ## Data Structures currently covered
 - [Array](./data_structures/array/README.md)
+- [ArrayList](./data_structures/array_list/README.md)
 
 ## Usage
 Within the folder `data_structures` you'll find sub folders containing individual data structures.
