@@ -35,7 +35,7 @@ As previously explained, the indices of an array are zero-based.
 
 You can imagine it like this:
 A native array is nothing else than a pointer to some memory address.
-If we want to access the second element, we only need to follow the pointer to the array, and go one address further:
+If you want to access the second element, you only need to follow the pointer to the array, and go one address further:
 ```JavaScript
   // Basically: Follow the pointer, and go one address further.
   // Like: arrayAddress + 1 = second element's address.
@@ -109,7 +109,7 @@ The next step is to create an array, that is one element larger than the previou
 const newArray = new Array(array.length + 1);
 ```
 
-After that, you need to copy over the elements and insert the element we want to.
+After that, you need to copy over the elements and insert the element you want to.
 
 ```JavaScript
 for (let i = 0, j = 0; i < newArray.length; i++, j++) {
@@ -182,7 +182,7 @@ Remember? You can't simply grow or shrink an array, and holes (null or undefined
 
 You wouldn't know if a hole within an array was there on purpose, or because an element was deleted.
 
-So, what we have to do is shrinking the array by creating a new array and then copying over all elements, except the one we want to delete.
+So, what you have to do is shrinking the array by creating a new array and then copying over all elements, except the one you want to delete.
 
 This is the whole algorithm, and we'll go over it step-by-step, to ensure that you understand what's happening here.
 
