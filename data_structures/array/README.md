@@ -258,4 +258,5 @@ Sometimes it's better to use a more advanced data structure, which already abstr
 
 But because they are the foundation for many algorithms and data structures, you should really learn to work well with them. You will always need that knowledge!
 
+## The Full Poster
 ![Full poster](./array.svg)
